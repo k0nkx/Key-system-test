@@ -1,5 +1,1 @@
-Key = "test"-- Put here key or raw link on key
-Link = "https://pastebin.com"-- Put here link
-Script = "loadstring(game:HttpGet("https://pastebin.com/raw/KHWWBsQ7"))()"-- Put here your script link
---! DON'T TOUCH ANYTHING BELOW !--
-loadstring(game:HttpGet("https://raw.githubusercontent.com/OopssSorry/FreeKeySystem/main/Lib.lua"))().Sus(Link,Script,Key)
+no more key
